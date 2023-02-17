@@ -74,10 +74,10 @@
     bufio "^1.0.7"
     chai "^4.3.4"
 
-"@ethereum-waffle/chai@4.0.9":
-  version "4.0.9"
-  resolved "https://registry.yarnpkg.com/@ethereum-waffle/chai/-/chai-4.0.9.tgz#6b68a9f292a922e0b72b58a41bbe61c9519c0a5d"
-  integrity sha512-uSPLeWwRBIpoh3EtZTkpESbmkz/2/g9nRZ7685oBbmKeEv8pYRf/GjlU0ulw/I109iqzoA8nw64uOOXNlHoCOg==
+"@ethereum-waffle/chai@4.0.10":
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/@ethereum-waffle/chai/-/chai-4.0.10.tgz#6f600a40b6fdaed331eba42b8625ff23f3a0e59a"
+  integrity sha512-X5RepE7Dn8KQLFO7HHAAe+KeGaX/by14hn90wePGBhzL54tq4Y8JscZFu+/LCwCl6TnkAAy5ebiMoqJ37sFtWw==
   dependencies:
     "@ethereum-waffle/provider" "4.0.5"
     debug "^4.3.4"
@@ -101,10 +101,10 @@
   resolved "https://registry.yarnpkg.com/@ethereum-waffle/ens/-/ens-4.0.3.tgz#4a46ac926414f3c83b4e8cc2562c8e2aee06377a"
   integrity sha512-PVLcdnTbaTfCrfSOrvtlA9Fih73EeDvFS28JQnT5M5P4JMplqmchhcZB1yg/fCtx4cvgHlZXa0+rOCAk2Jk0Jw==
 
-"@ethereum-waffle/mock-contract@4.0.3":
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/@ethereum-waffle/mock-contract/-/mock-contract-4.0.3.tgz#3cdd0954f310de55068c6b1315322e18adb5854e"
-  integrity sha512-CcqTfP/CqtIFdTVtmv+ZGJOLAvI2Q1n+XML//cjkAMr03eFDdKHR8Sxe/ytjgQg/FpnTdtaHNr0j0zBHhZjAbQ==
+"@ethereum-waffle/mock-contract@4.0.4":
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/@ethereum-waffle/mock-contract/-/mock-contract-4.0.4.tgz#f13fea29922d87a4d2e7c4fc8fe72ea04d2c13de"
+  integrity sha512-LwEj5SIuEe9/gnrXgtqIkWbk2g15imM/qcJcxpLyAkOj981tQxXmtV4XmQMZsdedEsZ/D/rbUAOtZbgwqgUwQA==
 
 "@ethereum-waffle/provider@4.0.5":
   version "4.0.5"
@@ -2047,9 +2047,9 @@ cookie@^0.4.1:
   integrity sha512-aSWTXFzaKWkvHO1Ny/s+ePFpvKsPnjc551iI41v3ny/ow6tBG5Vd+FuqGNhh1LxOmVzOlGUriIlOaokOvhaStA==
 
 core-js-pure@^3.0.1:
-  version "3.27.2"
-  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.27.2.tgz#47e9cc96c639eefc910da03c3ece26c5067c7553"
-  integrity sha512-Cf2jqAbXgWH3VVzjyaaFkY1EBazxugUepGymDoeteyYr9ByX51kD2jdHZlsEF/xnJMyN3Prua7mQuzwMg6Zc9A==
+  version "3.28.0"
+  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.28.0.tgz#4ef2888475b6c856ef6f5aeef8b4f618b76ad048"
+  integrity sha512-DSOVleA9/v3LNj/vFxAPfUHttKTzrB2RXhAPvR5TPXn4vrra3Z2ssytvRyt8eruJwAfwAiFADEbrjcRdcvPLQQ==
 
 core-util-is@1.0.2:
   version "1.0.2"
@@ -2500,9 +2500,9 @@ esprima@^4.0.0:
   integrity sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A==
 
 esquery@^1.0.1:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/esquery/-/esquery-1.4.0.tgz#2148ffc38b82e8c7057dfed48425b3e61f0f24a5"
-  integrity sha512-cCDispWt5vHHtwMY2YrAQ4ibFkAL8RbH5YGBnZBc90MolvvfkkQcJro/aZiAQUlQ3qgrYS6D6v8Gc5G5CQsc9w==
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/esquery/-/esquery-1.4.2.tgz#c6d3fee05dd665808e2ad870631f221f5617b1d1"
+  integrity sha512-JVSoLdTlTDkmjFmab7H/9SL9qGSyjElT3myyKp7krqjVFQCDLmj1QFaCLRFBszBKI0XVZaiiXvuPIX3ZwHe1Ng==
   dependencies:
     estraverse "^5.1.0"
 
@@ -2592,14 +2592,14 @@ ethereum-cryptography@^1.0.3:
     "@scure/bip32" "1.1.5"
     "@scure/bip39" "1.1.1"
 
-ethereum-waffle@^4.0.9:
-  version "4.0.9"
-  resolved "https://registry.yarnpkg.com/ethereum-waffle/-/ethereum-waffle-4.0.9.tgz#97b02bdca225156f5eb32ab5109f45beaec78365"
-  integrity sha512-z1X0B2+QrM2Vgr7Tj8Ho4QTrs6GLzm72Oj6bRqFWNVlCB3uIaf8iTLgvSq/UlKsIEh22FNyGkkyA+CAYqFTPeg==
+ethereum-waffle@^4.0.10:
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/ethereum-waffle/-/ethereum-waffle-4.0.10.tgz#f1ef1564c0155236f1a66c6eae362a5d67c9f64c"
+  integrity sha512-iw9z1otq7qNkGDNcMoeNeLIATF9yKl1M8AIeu42ElfNBplq0e+5PeasQmm8ybY/elkZ1XyRO0JBQxQdVRb8bqQ==
   dependencies:
-    "@ethereum-waffle/chai" "4.0.9"
+    "@ethereum-waffle/chai" "4.0.10"
     "@ethereum-waffle/compiler" "4.0.3"
-    "@ethereum-waffle/mock-contract" "4.0.3"
+    "@ethereum-waffle/mock-contract" "4.0.4"
     "@ethereum-waffle/provider" "4.0.5"
     solc "0.8.15"
     typechain "^8.0.0"
@@ -2698,10 +2698,10 @@ ethers@^5.5.3:
     "@ethersproject/web" "5.7.1"
     "@ethersproject/wordlists" "5.7.0"
 
-ethers@^6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/ethers/-/ethers-6.0.2.tgz#e147424b3464ecca7af23e0e2f0b3b045641ccfd"
-  integrity sha512-YOHvShFjKordVEN7kVcKRp6xhpjq4ggZPcsAVuadXravZ7Z4qOflOEGfIaMnKp2ZQJqyR07iYVD6YVty4dI3Fw==
+ethers@^6.0.4:
+  version "6.0.4"
+  resolved "https://registry.yarnpkg.com/ethers/-/ethers-6.0.4.tgz#4ff48a94e51248cdcdca762deda2b98d595a2889"
+  integrity sha512-El/9IN2A0ptmxdMQA/Rzn/F80/8OpwHSQ+CkU83y6XIT0fNUz2M2X12VCWzlkmLV0dTGk45gdWR6gxNfyXdylg==
   dependencies:
     "@adraffy/ens-normalize" "1.8.9"
     "@noble/hashes" "1.1.2"
@@ -5839,9 +5839,9 @@ unbox-primitive@^1.0.2:
     which-boxed-primitive "^1.0.2"
 
 undici@^5.14.0:
-  version "5.18.0"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-5.18.0.tgz#e88a77a74d991a30701e9a6751e4193a26fabda9"
-  integrity sha512-1iVwbhonhFytNdg0P4PqyIAXbdlVZVebtPDvuM36m66mRw4OGrCm2MYynJv/UENFLdP13J1nPVQzVE2zTs1OeA==
+  version "5.19.1"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-5.19.1.tgz#92b1fd3ab2c089b5a6bd3e579dcda8f1934ebf6d"
+  integrity sha512-YiZ61LPIgY73E7syxCDxxa3LV2yl3sN8spnIuTct60boiiRaE1J8mNWHO8Im2Zi/sFrPusjLlmRPrsyraSqX6A==
   dependencies:
     busboy "^1.6.0"
 
